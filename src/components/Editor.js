@@ -4,7 +4,7 @@ import { useRecoilValue } from 'recoil';
 import ACTIONS from '../Actions';
 
 // CODE MIRROR
-import Codemirror from 'codemirror';
+import Codemirror from 'codemirror;
 import 'codemirror/lib/codemirror.css';
 
 // theme
