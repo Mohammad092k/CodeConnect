@@ -35,7 +35,7 @@ Code Connect is a collaborative platform which enables multiple users to enter a
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/Code-Sync.git
+    git clone https://github.com/Mohammad092k/CodeConnect.git
     ```
 3. **Set .env file:**
    Inside src directory create a file names as `.env` and set the following environment variables:
